@@ -6,6 +6,5 @@
    :maxdepth: 2
 
    using_software
+   installing_software
    software_development
-   postprocessing_tools
-

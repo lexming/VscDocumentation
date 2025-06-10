@@ -52,11 +52,12 @@ Running jobs
 Software
 --------
 
+* :ref:`use_containers`
+
 .. toctree::
    :maxdepth: 2
 
    compute/software/parallel_software
-   compute/software/containers
 
 
 Tutorials and additional resources

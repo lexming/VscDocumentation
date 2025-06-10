@@ -1,16 +1,29 @@
-#####################
-Post-processing tools
-#####################
+######################################
+Instructions for specific applications
+######################################
 
-*This section is still rather empty. It will be expanded over time.*
+MATLAB
+======
 
-Visualization software
-======================
+.. toctree::
+   :maxdepth: 2
+
+   matlab_getting_started
+   matlab_parallel_computing
+
+R
+=
+
+.. toctree::
+   :maxdepth: 2
+
+   r_command_line_arguments_in_scripts
+   r_integrating_c_functions
 
 .. _Paraview:
 
 Paraview
---------
+========
 
 `ParaView <https://www.paraview.org/>`__ is a free
 visualization package. It can be used in three modes:

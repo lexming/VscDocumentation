@@ -89,7 +89,7 @@ Python modules and environments
 ...............................
 
 To use Python and Python packages provided by :ref:`the software modules
-<module_system_basics>` in the Python IDE, follow these steps:
+<module_system>` in the Python IDE, follow these steps:
 
 #. In the 'Pre-run Scriptlet' of the resources form, ``module load`` the
    modules that you need. A commonly used software module is

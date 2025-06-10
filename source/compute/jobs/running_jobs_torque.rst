@@ -52,7 +52,7 @@ We discuss this script line by line.
   be submitted (that will be the value of the ``$PBS_O_WORKDIR`` environment
   variable when the job runs).
 - Lines 9 and 10 set up the environment by
-  :ref:`loading the appropriate modules <module_system_basics>`.
+  :ref:`loading the appropriate modules <module_system>`.
 - Line 12 performs the actual computation, i.e., running a Python script.
 
 Every job script has the same basic structure.
@@ -74,7 +74,7 @@ More information is available on:
 
 .. seealso::
 
-   Using the :ref:`module system <module_system_basics>`
+   Using the :ref:`module system <module_system>`
 
 Submitting and monitoring a job
 -------------------------------
